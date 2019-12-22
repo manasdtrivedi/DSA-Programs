@@ -4,9 +4,9 @@ This is a repository of programs for an introductory course on Data Structures a
 The data structures which will be implemented in the programs in the repository will include:
 1. Arrays
 2. Linked Lists
-3. Trees
-4. Graphs
+3. Stacks
+4. Queues
+5. Trees
+6. Graphs
 
-The algorithms which will be implemented will include:
-1. Sorting algorithms
-2. Graph algorithms
+The algorithms which will be implemented will be based on the above data structures.
